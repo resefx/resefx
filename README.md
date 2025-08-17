@@ -40,7 +40,7 @@ Perfil antigo: https://github.com/reseflix
 - 🧰 Finalizado!!!!
 - 💬 Exemplo de aplicação utilizando socket.io e better-auth
 
-- 🧪 [**one-messages-monorepo**](https://github.com/resefx/one-messages-monorepo) — Demonstração de uma aplicativo utilizando **Vercel/Supabase** + **nextjs**
+- 🧪 [**Two-Supabase-monolith**](https://github.com/resefx/two-silentPolitics-supabaseMonolith) — Demonstração de uma aplicativo utilizando **Vercel/Supabase** + **nextjs**
 - 🧰 Em construção!!!!
 - 💬 Um aplicativo de noticias/politicas
   
