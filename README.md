@@ -39,6 +39,10 @@ Perfil antigo: https://github.com/reseflix
 - 🧪 [**one-messages-monorepo**](https://github.com/resefx/one-messages-monorepo) — Demonstração de chat em tempo real com **Socket.IO** e **Better Auth**
 - 🧰 Finalizado!!!!
 - 💬 Exemplo de aplicação utilizando socket.io e better-auth
+
+- 🧪 [**one-messages-monorepo**](https://github.com/resefx/one-messages-monorepo) — Demonstração de uma aplicativo utilizando **Vercel/Supabase** + **nextjs**
+- 🧰 Em construção!!!!
+- 💬 Um aplicativo de noticias/politicas
   
 ---
 
